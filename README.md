@@ -5,7 +5,6 @@ Jr. Web Developer
 -----------------
 
 * 🌍  I'm based in Istanbul
-* ✉️  You can contact me at [eirhan05@hotmail.com](mailto:eirhan05@hotmail.com)
 * 🧠  I'm learning React.js, Express, MongoDB
 
 <a href="https://www.github.com/imkyssa" target="_blank" rel="noreferrer"><img
