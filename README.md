@@ -5,7 +5,7 @@ Jr. Web Developer
 -----------------
 
 * 🌍  I'm based in Istanbul
-* 🧠  I'm learning React.js, Express, MongoDB
+* 🧠  I'm working with React.js, Express, MongoDB
 
 <a href="https://www.github.com/imkyssa" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/imkyssa?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
