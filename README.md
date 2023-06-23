@@ -1,7 +1,7 @@
 Hi 👋 My name is Emirhan
 ========================
 
-Jr. Web Developer
+Jr. Full-Stack Developer
 -----------------
 
 * 🌍  I'm based in Istanbul
